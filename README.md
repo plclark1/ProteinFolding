@@ -1,2 +1,2 @@
 # ProteinFolding
-Raw data repository for published articles
+Analyses of protein stability and folding mechanisms.
